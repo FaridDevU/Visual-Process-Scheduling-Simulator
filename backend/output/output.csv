@@ -1,0 +1,4 @@
+id,arrival,duration,start,finish,waiting,turnaround
+1,0,5,0,5,0,5
+2,2,3,5,8,3,6
+3,4,2,8,10,4,6

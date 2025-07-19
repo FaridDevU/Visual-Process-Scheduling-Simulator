@@ -1,0 +1,31 @@
+{
+  "processes": [
+    {
+      "id": 1,
+      "arrival": 0,
+      "duration": 5,
+      "start": 0,
+      "finish": 5,
+      "waiting": 0,
+      "turnaround": 5
+    },
+    {
+      "id": 2,
+      "arrival": 2,
+      "duration": 3,
+      "start": 5,
+      "finish": 8,
+      "waiting": 3,
+      "turnaround": 6
+    },
+    {
+      "id": 3,
+      "arrival": 4,
+      "duration": 2,
+      "start": 8,
+      "finish": 10,
+      "waiting": 4,
+      "turnaround": 6
+    }
+  ]
+}
